@@ -8,3 +8,5 @@ microsoft store
   python 3.13: https://apps.microsoft.com/detail/9pnrbtzxmb4z?hl=en-US&gl=US
   python 3.12: https://apps.microsoft.com/detail/9ncvdn91xzqp?hl=en-US&gl=US
 once you have python, you can use it to open the hangman file and play hangman!
+
+i used some ai for bug fixes and other small changes for this project, the core of it was made by me
